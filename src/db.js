@@ -13,17 +13,17 @@ import "firebase/database";
 
 const config = {
 
-    apiKey: "AIzaSyDVXEfeHbJtbqpDnrdKozhh44KAjJIKoGs",
+    apiKey: "",
 
-    authDomain: "vuechat-e98a5.firebaseapp.com",
+    authDomain: "",
   
-    projectId: "vuechat-e98a5",
+    projectId: "",
   
-    storageBucket: "vuechat-e98a5.appspot.com",
+    storageBucket: "",
   
-    messagingSenderId: "797779588323",
+    messagingSenderId: "",
   
-    appId: "1:797779588323:web:4f160b96e2a41cf26dc1d6"
+    appId: ""
   
 };
 
